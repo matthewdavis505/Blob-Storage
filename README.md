@@ -4,7 +4,7 @@ This tutorial outlines storing of large amounts of unstructured object data. Uns
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Storage Explorer)
+- Microsoft Azure (Storage and Container)
  
  <h2>Operating Systems Used </h2>
 
