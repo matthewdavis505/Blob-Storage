@@ -20,7 +20,7 @@ This tutorial outlines storing of large amounts of unstructured object data. Uns
 - Blob Lifecycle Management Rules 
 - Comparing Access Tiers
 - Upload and Price Blob Storage
-- Upload Toos
+- Upload Tools
 
 
 <h2>Installation Steps</h2>
