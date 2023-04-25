@@ -37,7 +37,7 @@ This diagram shows the relationship between the Blob Storage resources. Please c
   ![Create Storage Account](images/https://i.imgur.com/DeOxVCl.png)
 </p>
 <p>
-Installed active directory and assigned usernames and passwords and unlocked accounts. Please click above link to see example.  
+Create Storage Account. Please click above link to see example.  
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Installed active directory and assigned usernames and passwords and unlocked acc
 ![Storage Created](https://https://i.imgur.com/DeOxVCl.png)
 </p>
 <p>
-Created a VPN through Microsoft Azure and Proton VPN.  Please click above link to see example.  
+Storage Account Created.  Please click above link to see example.  
 </p>
 <br />
 
@@ -53,7 +53,7 @@ Created a VPN through Microsoft Azure and Proton VPN.  Please click above link t
 ![Add Container](images/https://i.imgur.com/sXgdxh2.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+Have to add container to the storage account.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
 </p>
 <br />
 
@@ -61,7 +61,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 ![Document Uploaded in Container](images/https://i.imgur.com/eG9S1hA.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+With the storage account created and container. You can now add docs, videos, texts to the container for storage. Please click above link to see example.    
 </p>
 <br />
 
@@ -69,7 +69,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 ![Storage Insights](images/https://i.imgur.com/4mXIgYG.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+You can also see all data regarding your storage under storage insights. Please click above link to see example.    
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 ![Lifecycle Management](images/https://i.imgur.com/Xm0izco.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+. Please click above link to see example.    
 </p>
 <br />
 
