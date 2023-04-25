@@ -45,3 +45,59 @@ Installed active directory and assigned usernames and passwords and unlocked acc
 Created a VPN through Microsoft Azure and Proton VPN.  Please click above link to see example.  
 </p>
 <br />
+
+<p>
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+</p>
+<p>
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+</p>
+<br />
+
+<p>
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+</p>
+<p>
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+</p>
+<br />
+
+<p>
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+</p>
+<p>
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+</p>
+<br />
+
+<p>
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+</p>
+<p>
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+</p>
+<br />
+
+<p>
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+</p>
+<p>
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+</p>
+<br />
+
+<p>
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+</p>
+<p>
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+</p>
+<br />
+
+<p>
+![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+</p>
+<p>
+Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+</p>
+<br />
