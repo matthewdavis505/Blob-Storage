@@ -26,10 +26,10 @@ This tutorial outlines storing of large amounts of unstructured object data. Uns
 <h2>Installation Steps</h2>
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Relationship Between Storage Resources ](images/https://i.imgur.com/hqwa0EC.png) 
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+This diagram shows the relationship between the Blob Storage resources. Please click above link to see relationship.    
 </p>
 <br />
 
