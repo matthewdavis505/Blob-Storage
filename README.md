@@ -1,5 +1,6 @@
 # Blob-Storage
-How to store large data in Blob Storage (Binary Large Object) also known as Object Storage and Container Storage <br />
+How to store large data in Blob Storage (Binary Large Object) also known as Object Storage and Container Storage.
+
 This tutorial outlines storing of large amounts of unstructured object data. Unstructured data is data that doesn't adhere to a particular data model or definition, such as text or binary data.<br />
 
 <h2>Environments and Technologies Used</h2>
