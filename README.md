@@ -42,7 +42,7 @@ Installed active directory and assigned usernames and passwords and unlocked acc
 <br />
 
 <p>
-![VPN](https://imgur.com/e1XzRii)
+![Storage Created](https://https://i.imgur.com/DeOxVCl.png)
 </p>
 <p>
 Created a VPN through Microsoft Azure and Proton VPN.  Please click above link to see example.  
@@ -50,7 +50,7 @@ Created a VPN through Microsoft Azure and Proton VPN.  Please click above link t
 <br />
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Add Container](images/https://i.imgur.com/sXgdxh2.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
@@ -58,7 +58,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 <br />
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Document Uploaded in Container](images/https://i.imgur.com/eG9S1hA.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
@@ -66,7 +66,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 <br />
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Storage Insights](images/https://i.imgur.com/4mXIgYG.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
@@ -74,7 +74,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 <br />
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Lifecycle Management](images/https://i.imgur.com/Xm0izco.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
@@ -82,7 +82,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 <br />
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Comparison of Access Tiers](images/https://i.imgur.com/kjo7Siy.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
@@ -90,7 +90,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 <br />
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Blob Storage Pricing](images/https://i.imgur.com/FVDmBAF.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
@@ -98,7 +98,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 <br />
 
 <p>
-![Active Directory](images/https://i.imgur.com/rOnjaIA.png)
+![Upload Tools(images/https://i.imgur.com/52PMSHk.png)
 </p>
 <p>
 Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
