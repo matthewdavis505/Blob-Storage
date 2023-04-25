@@ -14,11 +14,14 @@ This tutorial outlines storing of large amounts of unstructured object data. Uns
 
 <h2>Project Summary</h2>
 
+- Relationship Between Blob Storage Resources
 - Configure Blob Storage
 - Configure Blob Access Tiers
 - Blob Lifecycle Management Rules 
 - Comparing Access Tiers
 - Upload and Price Blob Storage
+- Upload Toos
+
 
 <h2>Installation Steps</h2>
 
