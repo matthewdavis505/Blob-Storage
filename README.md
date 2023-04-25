@@ -12,7 +12,7 @@ This tutorial outlines storing of large amounts of unstructured object data. Uns
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>What You Need To Know About Blob Storage</h2>
 
 - Configure Blob Storage
 - Configure Blob Access Tiers
