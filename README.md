@@ -16,10 +16,10 @@ This tutorial outlines storing of large amounts of unstructured object data. Uns
 
 - Relationship Between Blob Storage Resources
 - Configure Blob Storage
-- Configure Blob Access Tiers
-- Blob Lifecycle Management Rules 
-- Comparing Access Tiers
-- Upload and Price Blob Storage
+- Information on How To Configure Blob Access Tiers
+- Information on Blob Lifecycle Management Rules 
+- Information For Comparing Access Tiers
+- Information on Upload and Price Blob Storage
 - Upload Tools
 
 
@@ -77,7 +77,7 @@ You can also see all data regarding your storage under storage insights. Please 
 ![Lifecycle Management](images/https://i.imgur.com/Xm0izco.png)
 </p>
 <p>
-. Please click above link to see example.    
+Things you should know about lifcycle management. Please click above link to see example.    
 </p>
 <br />
 
@@ -85,7 +85,7 @@ You can also see all data regarding your storage under storage insights. Please 
 ![Comparison of Access Tiers](images/https://i.imgur.com/kjo7Siy.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+More information on Access Tiers. Please click above link to see example.    
 </p>
 <br />
 
@@ -93,7 +93,7 @@ Installed active directory and managed fictitious employees through Microsoft Az
 ![Blob Storage Pricing](images/https://i.imgur.com/FVDmBAF.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+Please review on Blob storage pricing. Please click above link to see example.    
 </p>
 <br />
 
@@ -101,6 +101,6 @@ Installed active directory and managed fictitious employees through Microsoft Az
 ![Upload Tools(images/https://i.imgur.com/52PMSHk.png)
 </p>
 <p>
-Installed active directory and managed fictitious employees through Microsoft Azure.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+These are the tools you can use to upload your data. Please click above link to see example.    
 </p>
 <br />
