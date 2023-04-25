@@ -53,7 +53,7 @@ Storage Account Created.  Please click above link to see example.
 ![Add Container](images/https://i.imgur.com/sXgdxh2.png)
 </p>
 <p>
-Have to add container to the storage account.  Was able to manage employee designation and functions throughout the database. Please click above link to see example.    
+It's mandatory to add container to the storage account.  Please click above link to see example.    
 </p>
 <br />
 
@@ -61,7 +61,7 @@ Have to add container to the storage account.  Was able to manage employee desig
 ![Document Uploaded in Container](images/https://i.imgur.com/eG9S1hA.png)
 </p>
 <p>
-With the storage account created and container. You can now add docs, videos, texts to the container for storage. Please click above link to see example.    
+With the storage account created along with the container, you can now add docs, videos and texts to the container for storage. Please click above link to see example.    
 </p>
 <br />
 
@@ -85,7 +85,7 @@ Things you should know about lifcycle management. Please click above link to see
 ![Comparison of Access Tiers](images/https://i.imgur.com/kjo7Siy.png)
 </p>
 <p>
-More information on Access Tiers. Please click above link to see example.    
+Information on Access Tiers. Please click above link to see example.    
 </p>
 <br />
 
