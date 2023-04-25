@@ -34,7 +34,7 @@ This diagram shows the relationship between the Blob Storage resources. Please c
 <br />
 
 <p>
-  ![Storage Account](images/https://i.imgur.com/DeOxVCl.png)
+  ![Create Storage Account](images/https://i.imgur.com/DeOxVCl.png)
 </p>
 <p>
 Installed active directory and assigned usernames and passwords and unlocked accounts. Please click above link to see example.  
