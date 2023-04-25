@@ -19,7 +19,7 @@ This tutorial outlines how to store large amounts of unstructured object data in
 - Information on How To Configure Blob Access Tiers
 - Information on Blob Lifecycle Management Rules 
 - Information For Comparing Access Tiers
-- Information on Upload and Price Blob Storage
+- Information on Upload and Pricing Blob Storage
 - Upload Tools
 
 
